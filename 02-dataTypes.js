@@ -36,8 +36,5 @@ console.log("Type of fullName: ", fullNameTypeOf);
 var pastAffairs = null;
 console.log("Past affairs: ", pastAffairs);
 var pastAffairsTypeOf = typeof(null);
+
 console.log("Type of pastAffairs: ", pastAffairsTypeOf);
-
-
-
-
